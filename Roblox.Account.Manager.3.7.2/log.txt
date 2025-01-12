@@ -1,0 +1,178 @@
+2024-08-11 10:36:51,771 [12] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-08-24 18:23:20,584 [11] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-09-01 12:08:19,873 [11] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-09-22 19:15:43,073 [4] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'raw.githubusercontent.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-09-22 20:30:43,301 [134] INFO  Account Manager - Attempting to refresh PinguSniperGOD1 | Last Use: 24.08.2024 08:19:11
+2024-09-22 20:30:49,665 [126] INFO  Account Manager - Attempting to refresh PinguSniperGOD2 | Last Use: 24.08.2024 08:19:17
+2024-09-22 20:30:56,226 [126] INFO  Account Manager - Attempting to refresh PinguSniperGOD3 | Last Use: 24.08.2024 08:19:23
+2024-09-22 20:31:02,123 [141] INFO  Account Manager - Attempting to refresh PinguSniperGOD4 | Last Use: 24.08.2024 08:19:30
+2024-09-22 20:31:07,919 [142] INFO  Account Manager - Attempting to refresh PinguSniperGOD5 | Last Use: 24.08.2024 08:19:38
+2024-09-22 20:31:13,734 [142] INFO  Account Manager - Attempting to refresh PinguSniperGOD6 | Last Use: 24.08.2024 08:19:49
+2024-10-01 21:09:08,309 [11] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-03 11:43:45,152 [11] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-03 14:53:43,840 [11] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-08 17:47:37,303 [5] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'raw.githubusercontent.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-08 17:58:33,111 [48] INFO  Account Manager - -Command "Get-AppxPackage *Roblox* | Format-List -Property InstallLocation"
+2024-10-08 17:58:36,360 [48] INFO  Account Manager -  | IsRoblox: False
+2024-10-08 17:58:36,364 [48] INFO  Account Manager -  | IsRoblox: False
+2024-10-08 17:58:36,436 [48] INFO  Account Manager - InstallLocation : C:\Program Files\WindowsApps\ROBLOXCORPORATION.ROBLOX_2.645.665.0_x64__55nm5eh3cm0pr | IsRoblox: True
+2024-10-08 17:58:36,436 [48] INFO  Account Manager -  | IsRoblox: False
+2024-10-08 17:58:36,437 [48] INFO  Account Manager -  | IsRoblox: False
+2024-10-08 17:58:36,437 [48] INFO  Account Manager -  | IsRoblox: False
+2024-10-08 17:58:36,562 [48] INFO  Account Manager - -Command "Get-AppxPackage ROBLOXCORPORATION.ROBLOX.* | Format-List -Property Name, PackageFullName"
+2024-10-11 11:56:21,081 [4] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'raw.githubusercontent.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-13 14:56:21,088 [10] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-13 17:31:21,677 [174] INFO  Account Manager - Attempting to refresh Randomps99shop | Last Use: 22.09.2024 19:15:51
+2024-10-13 17:31:27,569 [83] INFO  Account Manager - Attempting to refresh Randomps99shop1 | Last Use: 22.09.2024 19:25:58
+2024-10-13 17:31:33,276 [83] INFO  Account Manager - Attempting to refresh Randomps99shop2 | Last Use: 22.09.2024 19:40:20
+2024-10-18 00:54:10,297 [11] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-18 17:02:29,150 [3] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'raw.githubusercontent.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-19 11:06:36,880 [10] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-23 18:43:44,736 [11] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-24 20:48:28,756 [11] ERROR Account Manager - [RobloxProcess::UpdateMatches] Couldn't update "Matches" dictionary: System.Net.Http.HttpRequestException: Fehler beim Senden der Anforderung. ---> System.Net.WebException: Der Remotename konnte nicht aufgelöst werden: 'github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei RBX_Alt_Manager.Classes.RobloxProcess.<UpdateMatches>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\RobloxProcess.cs:Zeile 45.
+2024-10-24 21:58:29,016 [77] INFO  Account Manager - Attempting to refresh PinguSniperGOD2 | Last Use: 01.10.2024 21:15:23
+2024-10-24 21:58:34,874 [15] INFO  Account Manager - Attempting to refresh PinguSniperGOD3 | Last Use: 01.10.2024 21:19:37
+2024-10-24 21:58:40,638 [40] INFO  Account Manager - Attempting to refresh PinguSniperGOD4 | Last Use: 01.10.2024 21:20:55
+2024-10-24 21:58:46,404 [30] INFO  Account Manager - Attempting to refresh PinguSniperGOD5 | Last Use: 01.10.2024 21:22:45
+2024-10-24 21:58:52,149 [18] INFO  Account Manager - Attempting to refresh PinguSniperGOD6 | Last Use: 01.10.2024 21:23:35
+2024-11-11 21:21:36,307 [35] INFO  Account Manager - Attempting to refresh Randomps99shop2 | Last Use: 18.10.2024 00:57:36
+2024-11-13 21:46:42,809 [8] INFO  Account Manager - Attempting to refresh PinguinBoss_1009 | Last Use: 24.10.2024 20:53:23
+2024-11-13 22:11:42,885 [56] INFO  Account Manager - Attempting to refresh PinguSniperGOD4 | Last Use: 24.10.2024 21:58:41
+2024-11-13 22:11:47,982 [48] INFO  Account Manager - Attempting to refresh PinguSniperGOD5 | Last Use: 24.10.2024 21:58:46
+2024-11-13 22:11:53,930 [40] INFO  Account Manager - Attempting to refresh PinguSniperGOD6 | Last Use: 24.10.2024 21:58:52
+2024-11-14 16:41:45,583 [46] INFO  Account Manager - Attempting to refresh PinguSniperGOD1 | Last Use: 25.10.2024 16:35:00
+2024-11-14 16:41:51,486 [44] INFO  Account Manager - Attempting to refresh PinguSniperGOD2 | Last Use: 25.10.2024 16:37:55
+2024-11-14 16:41:57,149 [49] INFO  Account Manager - Attempting to refresh PinguSniperGOD3 | Last Use: 25.10.2024 16:38:19
+2024-12-10 18:52:06,769 [19] INFO  Account Manager - -Command "Get-AppxPackage *Roblox* | Format-List -Property InstallLocation"
+2024-12-10 18:52:09,572 [19] INFO  Account Manager -  | IsRoblox: False
+2024-12-10 18:52:09,576 [19] INFO  Account Manager -  | IsRoblox: False
+2024-12-10 18:52:09,651 [19] INFO  Account Manager - InstallLocation : C:\Program Files\WindowsApps\ROBLOXCORPORATION.ROBLOX_2.652.762.0_x64__55nm5eh3cm0pr | IsRoblox: True
+2024-12-10 18:52:09,651 [19] INFO  Account Manager -  | IsRoblox: False
+2024-12-10 18:52:09,652 [19] INFO  Account Manager -  | IsRoblox: False
+2024-12-10 18:52:09,652 [19] INFO  Account Manager -  | IsRoblox: False
+2024-12-10 18:52:09,773 [19] INFO  Account Manager - -Command "Get-AppxPackage ROBLOXCORPORATION.ROBLOX.* | Format-List -Property Name, PackageFullName"
+2024-12-10 18:54:07,613 [20] INFO  Account Manager - Attempting to refresh PinguSniperGOD3 | Last Use: 14.11.2024 16:41:57
+2024-12-10 18:54:13,316 [9] INFO  Account Manager - Attempting to refresh PinguSniperGOD4 | Last Use: 24.10.2024 21:58:41
+2024-12-10 18:54:18,964 [4] INFO  Account Manager - Attempting to refresh PinguSniperGOD5 | Last Use: 13.11.2024 22:11:48
+2024-12-10 18:54:24,606 [9] INFO  Account Manager - Attempting to refresh PinguSniperGOD6 | Last Use: 13.11.2024 22:11:54
+2024-12-10 18:54:30,258 [9] INFO  Account Manager - Attempting to refresh Randomps99shop | Last Use: 11.11.2024 20:50:53
+2024-12-10 19:02:56,218 [10] INFO  Account Manager - Attempting to refresh Randomps99shop1 | Last Use: 11.11.2024 20:45:04
+2024-12-10 19:03:01,984 [24] INFO  Account Manager - Attempting to refresh Randomps99shop2 | Last Use: 11.11.2024 21:26:10
+2024-12-10 19:03:07,629 [18] INFO  Account Manager - Attempting to refresh Randomps99shop3 | Last Use: 11.11.2024 21:25:32
+2024-12-10 19:03:13,261 [24] INFO  Account Manager - Attempting to refresh randomps99shop5 | Last Use: 11.11.2024 21:17:22
+2024-12-10 19:03:18,980 [21] INFO  Account Manager - Attempting to refresh PinguinBoss_1009 | Last Use: 24.10.2024 20:53:23
+2025-01-03 17:55:50,775 [1] ERROR Account Manager - [Account::JoinServer] An error occured attempting to close Randomps99shop3's last process(es): System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: input
+   bei System.Text.RegularExpressions.Regex.Match(String input)
+   bei System.Text.RegularExpressions.Regex.Match(String input, String pattern)
+   bei RBX_Alt_Manager.Account.<JoinServer>d__53.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\Account.cs:Zeile 539.
+2025-01-03 17:56:25,157 [16] INFO  Account Manager - -Command "Get-AppxPackage *Roblox* | Format-List -Property InstallLocation"
+2025-01-03 17:56:28,768 [16] INFO  Account Manager -  | IsRoblox: False
+2025-01-03 17:56:28,775 [16] INFO  Account Manager -  | IsRoblox: False
+2025-01-03 17:56:28,832 [16] INFO  Account Manager - InstallLocation : C:\Program Files\WindowsApps\ROBLOXCORPORATION.ROBLOX_2.652.762.0_x64__55nm5eh3cm0pr | IsRoblox: True
+2025-01-03 17:56:28,832 [16] INFO  Account Manager -  | IsRoblox: False
+2025-01-03 17:56:28,833 [16] INFO  Account Manager -  | IsRoblox: False
+2025-01-03 17:56:28,833 [16] INFO  Account Manager -  | IsRoblox: False
+2025-01-03 17:56:28,955 [16] INFO  Account Manager - -Command "Get-AppxPackage ROBLOXCORPORATION.ROBLOX.* | Format-List -Property Name, PackageFullName"
+2025-01-03 17:58:48,380 [39] INFO  Account Manager - Attempting to refresh PinguinBoss_1009 | Last Use: 24.10.2024 20:53:23
+2025-01-06 01:02:38,957 [124] ERROR Account Manager - [Account::JoinServer] An error occured attempting to close Randomps99shop1's last process(es): System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: input
+   bei System.Text.RegularExpressions.Regex.Match(String input)
+   bei System.Text.RegularExpressions.Regex.Match(String input, String pattern)
+   bei RBX_Alt_Manager.Account.<JoinServer>d__53.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\Account.cs:Zeile 539.
+2025-01-07 00:43:06,986 [1] ERROR Account Manager - [Account::JoinServer] An error occured attempting to close Randomps99shop3's last process(es): System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: input
+   bei System.Text.RegularExpressions.Regex.Match(String input)
+   bei System.Text.RegularExpressions.Regex.Match(String input, String pattern)
+   bei RBX_Alt_Manager.Account.<JoinServer>d__53.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\Account.cs:Zeile 539.
+2025-01-10 17:59:47,239 [27] INFO  Account Manager - Attempting to refresh PinguinBoss_1009 | Last Use: 24.10.2024 20:53:23
